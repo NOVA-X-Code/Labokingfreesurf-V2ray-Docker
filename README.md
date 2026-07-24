@@ -1,7 +1,5 @@
 # 🚀 Labokingfreesurf Simple V2Ray Service
 
-![Docker Pulls](https://shields.io)
-![Docker Image Size](https://shields.io)
 ![Docker Hub](https://img.shields.io/badge/Docker-Hub-2496ED?logo=docker)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
 ![License](https://img.shields.io/badge/License-MIT-green)
