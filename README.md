@@ -142,13 +142,15 @@ This service is intended for legitimate purposes only:
 
 ### Official Channels
 
-| Platform        | Link 
-| :---            | 
-| 💬 **Discord** | [Join Discord](https://discord.gg/xGAGs69UHj) |
-| 📢 **WhatsApp Official** | [Follow Channel 1](https://whatsapp.com/channel/0029Vb8ZJnsAYlUHo1uA6W0y) |
-| 📢 **WhatsApp Laboking** | [Follow Channel 2](https://whatsapp.com/channel/0029Vb6yLAG9WtC0zbXeEo2t) |
-| 👥 **WhatsApp Community** | [Join Community](https://chat.whatsapp.com/LUkXjJNfWrT8Fz7akxosH0) |
-| 📢 **Telegram Group 1** | [Join LaboKingFreeSurf](https://t.me/LaboKingFreeSurf) |
-| 📢 **Telegram Group 2** | [Join Hat Tunnel](https://t.me/hat_tunnel) |
+
+| Platform | Link / Button |
+| :--- | :--- |
+| 💬 **Discord** | [![Discord](https://shields.io)](https://discord.gg/xGAGs69UHj) |
+| 📢 **WhatsApp Official** | [![WhatsApp Official](https://shields.io)](https://whatsapp.com/channel/0029Vb8ZJnsAYlUHo1uA6W0y) |
+| 📢 **WhatsApp Laboking** | [![WhatsApp Laboking](https://shields.io)](https://whatsapp.com/channel/0029Vb6yLAG9WtC0zbXeEo2t) |
+| 👥 **WhatsApp Community** | [![WhatsApp Community](https://shields.io)](https://chat.whatsapp.com/LUkXjJNfWrT8Fz7akxosH0) |
+| 📢 **Telegram Group 1** | [![Telegram Group 1](https://shields.io)](https://t.me/LaboKingFreeSurf) |
+| 📢 **Telegram Group 2** | [![Telegram Group 2](https://shields.io)](https://t.me/hat_tunnel) |
+
 
 <div>© 2026 Labokingfreesurf GCP | Powered by NOSTRA</div>
