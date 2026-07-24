@@ -1,5 +1,7 @@
 # 🚀 Labokingfreesurf Simple V2Ray Service
 
+![Docker Pulls](https://img.shields.io/docker/pulls/labokingfreesurf/labokingfreesurf-gcp)
+![Docker Image Size](https://img.shields.io/docker/image-size/labokingfreesurf/labokingfreesurf-gcp/latest)
 ![Docker Hub](https://img.shields.io/badge/Docker-Hub-2496ED?logo=docker)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -14,7 +16,7 @@ This image is publicly available on Docker Hub:
 docker pull labokingfreesurf/labokingfreesurf-gcp:latest
 ```
 
-👉 [View on Docker Hub](https://docker.com)
+👉 [View on Docker Hub](https://hub.docker.com/repositories/labokingfreesurf)
 
 ## ✨ Features
 ```text
