@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  v2ray:
+    image: labokingfreesurf/labokingfreesurf-gcp:latest
+    container_name: labokingfreesurf-gcp
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
